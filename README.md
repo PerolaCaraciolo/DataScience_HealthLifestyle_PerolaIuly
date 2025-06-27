@@ -71,7 +71,7 @@ Este dataset inclui dados como idade, duração do sono, alimentação, tabagism
 
 ## 📽️ Apresentação
 
-🎥 Link para o vídeo explicativo: [Vídeo](https://www.kaggle.com/datasets/sahilislam007/health-and-lifestyle-dataset) _(inserir link público do YouTube ou Google Drive)_   !!!!!!!!!!!!
+🎥 Link para o vídeo explicativo: [Vídeo](https://drive.google.com/file/d/1ynEkvjhWZgFq4gYQ9fF_m1V_c12YF7hP/view?usp=sharing)
 
 ---
 
