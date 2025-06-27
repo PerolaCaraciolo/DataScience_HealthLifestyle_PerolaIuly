@@ -1,0 +1,2 @@
+Esta pasta foi incluída conforme a estrutura sugerida pelo professor, mas permanece vazia pois o projeto não exigiu o salvamento do modelo de machine learning em formato externo (.pkl, .joblib).
+Toda a modelagem foi realizada e avaliada diretamente no Jupyter Notebook.

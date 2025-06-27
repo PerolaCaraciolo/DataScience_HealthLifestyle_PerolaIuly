@@ -1,0 +1,2 @@
+O projeto não utilizou scripts externos (.py) separados para as etapas de limpeza, modelagem ou visualização. Todas as ações foram realizadas de forma organizada em um único notebook, de acordo com o escopo individual da atividade.
+Por isso, a pasta src permanece vazia.
