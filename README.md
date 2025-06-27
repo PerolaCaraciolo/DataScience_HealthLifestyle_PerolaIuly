@@ -44,19 +44,6 @@ Este dataset inclui dados como idade, duração do sono, alimentação, tabagism
 
 ---
 
-## 📈 Visualizações
-
-### 🔥 Heatmap de Correlação
-![heatmap](img/heatmap_correlacao.png)
-
-### 📦 Boxplot de Coluna com Outliers
-![boxplot](img/boxplot.png)
-
-### 🌟 Top 10 Variáveis mais Relevantes
-![importancia](img/variaveis_importantes.png)
-
----
-
 ## 📁 Estrutura
 
 - `data/`: Dataset original em CSV
@@ -80,6 +67,19 @@ Este dataset inclui dados como idade, duração do sono, alimentação, tabagism
 A modelagem obteve bons resultados para previsão da frequência de exercícios, com base em características como alimentação, sono, idade, consumo de álcool e cigarro.
 
 O uso do Random Forest permitiu interpretar as variáveis com maior influência na prática de atividades físicas.
+
+---
+
+## 📈 Visualizações
+
+### 🔥 Heatmap de Correlação
+![heatmap](img/heatmap_correlacao.png)
+
+### 📦 Boxplot de Coluna com Outliers
+![boxplot](img/boxplot.png)
+
+### 🌟 Top 10 Variáveis mais Relevantes
+![importancia](img/variaveis_importantes.png)
 
 ---
 
